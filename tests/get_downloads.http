@@ -1,0 +1,6 @@
+### GET downloads
+GET http://localhost:8000/api/downloads
+
+### GET download by ID
+GET http://localhost:8000/api/downloads/4
+

@@ -1,0 +1,7 @@
+### Send POST add url request with json body
+POST http://localhost:8000/api/add
+Content-Type: application/json
+
+{
+    "url": "http://google.com"
+}
